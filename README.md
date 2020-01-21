@@ -18,5 +18,5 @@
 
 - Видео [Introduction to Numerical Computing with NumPy | SciPy 2019 Tutorial | Alex Chabot-Leclerc](https://www.youtube.com/watch?v=ZB7BZMhfPgk&list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC&index=2&t=0s), [git](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2019)
 
-- 
+- [Линейная алгебра для машинного обучения](https://drive.google.com/file/d/12vo9mX_IkW-zIq9smn8RD6xFr0RLVoM5/view?usp=sharing)
 
