@@ -1,5 +1,7 @@
 # Учебники:
 
+- [Подсказки по NumPy для печати](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+
 - [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
 - [Quickstart tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)
